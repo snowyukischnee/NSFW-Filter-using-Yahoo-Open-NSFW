@@ -1,0 +1,7 @@
+C:\Users\TuanNH\Desktop\NSFW_ProxyGUI\DAO\bin\Debug\DAO.dll
+C:\Users\TuanNH\Desktop\NSFW_ProxyGUI\DAO\bin\Debug\DAO.pdb
+C:\Users\TuanNH\Desktop\NSFW_ProxyGUI\DAO\bin\Debug\Entity.dll
+C:\Users\TuanNH\Desktop\NSFW_ProxyGUI\DAO\bin\Debug\Entity.pdb
+C:\Users\TuanNH\Desktop\NSFW_ProxyGUI\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\TuanNH\Desktop\NSFW_ProxyGUI\DAO\obj\Debug\DAO.dll
+C:\Users\TuanNH\Desktop\NSFW_ProxyGUI\DAO\obj\Debug\DAO.pdb

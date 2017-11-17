@@ -1,0 +1,5 @@
+C:\Users\TuanNH\Desktop\NSFW_ProxyGUI\Entity\bin\Debug\Entity.dll
+C:\Users\TuanNH\Desktop\NSFW_ProxyGUI\Entity\bin\Debug\Entity.pdb
+C:\Users\TuanNH\Desktop\NSFW_ProxyGUI\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\TuanNH\Desktop\NSFW_ProxyGUI\Entity\obj\Debug\Entity.dll
+C:\Users\TuanNH\Desktop\NSFW_ProxyGUI\Entity\obj\Debug\Entity.pdb
