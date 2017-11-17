@@ -19,7 +19,9 @@ First, install [VMware](https://www.vmware.com/ "VMware") on Windows
 
 Then, download and install [Ubuntu 17.xx](https://www.ubuntu.com/download/desktop "Ubuntu 17.xx") on VMware in order to host API Server and NSFW core because some libraries requires by NSFW core is not exist on Windows
 
-Next, Install [Caffe](http://caffe.berkeleyvision.org/ "caffe") and other package required by Yahoo's [Open NSFW](https://github.com/yahoo/open_nsfw "Open NSFW") on Ubuntu 17.xx on VMware
+Next, install [Python 2.7](https://www.python.org/ "Python 2.7")
+
+Then, Install [Caffe](http://caffe.berkeleyvision.org/ "caffe") and other package required by Yahoo's [Open NSFW](https://github.com/yahoo/open_nsfw "Open NSFW") on Ubuntu 17.xx on VMware
 
 >[Tutorial](https://gist.github.com/nikitametha/c54e1abecff7ab53896270509da80215 "Tutorial") install Caffe on Ubuntu without GPU support, work perfectly fine in Ubuntu 17.xx
 
@@ -61,15 +63,15 @@ Change `Sensitivity` level to change the "sensitive" of the model
 
 ## Notes
 > For more further information about this project, please read the code or contact me via email or social network
-## References
-[NodeJS](https://nodejs.org/en/ "NodeJS") \
+## Requirements
+[Python 2.7](https://www.python.org/ "Python 2.7") \
+[NodeJS 8+](https://nodejs.org/en/ "NodeJS") \
 [ExpressJS](https://expressjs.com/ "ExpressJS") \
 [VMware](https://www.vmware.com/ "VMware") \
 [Ubuntu 17.xx](https://www.ubuntu.com/download/desktop "Ubuntu 17.xx") \
 [.NET](https://www.microsoft.com/net/ ".NET") \
 [Caffe](http://caffe.berkeleyvision.org/ "caffe") \
 [Titanium Web Proxy](https://github.com/justcoding121/Titanium-Web-Proxy "Titanium Web Proxy") \
-[Open NSFW](https://github.com/yahoo/open_nsfw "Open NSFW") \
-[Tutorial install Caffe on Ubuntu](https://gist.github.com/nikitametha/c54e1abecff7ab53896270509da80215 "Tutorial") 
+[Open NSFW](https://github.com/yahoo/open_nsfw "Open NSFW") 
 ## Author
 Tuannhse04791
